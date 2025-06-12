@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://link-da-logo.com/logo.png" alt="Logo da Empresa" width="200"/>
+  <img src="https://github.com/RecodeJr/Capacita-o-Trainees-2025.1/blob/main/img/recodelogo.jpeg?raw=true" alt="Logo da Empresa" width="200"/>
 </p>
 
 # 🚀 Repositório - Trainees 2025.1
@@ -70,7 +70,7 @@ Todos os trainees devem seguir as diretrizes abaixo para elaboração do projeto
   - Link do vídeo de apresentação (YouTube)
 - ❌ Projetos copiados de tutoriais não serão aceitos.
 
-- Demais Regras esta no documento [@RafaelDamasceno](https://github.com/Rafael-Damasceno)
+- Demais Regras esta no documento [Documento com as Regras](https://github.com/RecodeJr/Capacita-o-Trainees-2025.1/blob/main/RegrasDaCapacitacao/Processo_Seletivo_DP_Recode.docx.pdf)
 
 ---
 
