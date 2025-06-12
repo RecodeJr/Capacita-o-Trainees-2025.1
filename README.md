@@ -7,15 +7,14 @@ Este espaço foi criado para registrar as **capacitações** realizadas durante 
 
 ## 📚 Capacitações Gravadas
 
-Abaixo você encontra as gravações das capacitações realizadas com os trainees. Todas estão disponíveis no YouTube:
+Abaixo você encontra as gravações das capacitações, ou recomendação de vidéo no youtube:
 
-| Tema                         | Link                                                        |
-|------------------------------|-------------------------------------------------------------|
-| Git e GitHub (Recomendação)  | [📺 Assistir](https://youtu.be/DqTITcMq68k?si=wyHQUomxcFMNyVZp)         |
-| JavaScript (Recode Jr)   | [📺 Assistir](https://youtu.be/j8Mh3hIyHU8)         |
-| Node.js e Express           | [📺 Assistir](https://www.youtube.com/link-exemplo3)         |
-| Banco de Dados com PostgreSQL | [📺 Assistir](https://www.youtube.com/link-exemplo4)       |
-| Deploy e Hospedagem         | [📺 Assistir](https://www.youtube.com/link-exemplo5)         |
+| Tema                        | Link                                                            |
+| --------------------------- | --------------------------------------------------------------- |
+| Git e GitHub (Recomendação) | [📺 Assistir](https://youtu.be/DqTITcMq68k?si=wyHQUomxcFMNyVZp) |
+| JavaScript (Recode Jr)      | [📺 Assistir](https://youtu.be/j8Mh3hIyHU8)                     |
+| Html (Recomendação)         | [📺 Assistir](https://youtu.be/Fhy-5CtVkiM?si=b0kqxzXmKzZ5I0aD) |
+| Css (Recomendação)          | [📺 Assistir](https://youtu.be/AB35iSr1YyA?si=H--4xDHNx-PSTdaq) |
 
 ---
 
@@ -23,15 +22,13 @@ Abaixo você encontra as gravações das capacitações realizadas com os traine
 
 Aqui você encontra os **materiais de apoio** utilizados nas capacitações: slides, links úteis, códigos de exemplo e outros recursos.
 
-| Tema                         | Material                                                   |
-|------------------------------|-------------------------------------------------------------|
-| Git e GitHub                 | [📄 Slides](https://drive.google.com/link-slides1) – [💻 Código](https://github.com/exemplo/git-aula) |
-| JavaScript Básico            | [📄 Slides](https://drive.google.com/link-slides2) – [💻 Código](https://github.com/exemplo/js-aula) |
-| Node.js e Express            | [📄 Slides](https://drive.google.com/link-slides3) – [💻 Código](https://github.com/exemplo/node-aula) |
-| PostgreSQL                   | [📄 Slides](https://drive.google.com/link-slides4) – [📘 Documentação](https://www.postgresql.org/docs/) |
-| Deploy de Aplicações         | [📄 Slides](https://drive.google.com/link-slides5) – [🔗 Link extra](https://vercel.com/docs) |
-
-*⚠️ Adicione novos links conforme o conteúdo for sendo disponibilizado.*
+| Tema                 | Material                                                                                                 |
+| -------------------- | -------------------------------------------------------------------------------------------------------- |
+| Git e GitHub         | [📄 Slides](https://drive.google.com/link-slides1) – [💻 Código](https://github.com/exemplo/git-aula)    |
+| JavaScript Básico    | [📄 Slides](https://drive.google.com/link-slides2) – [💻 Código](https://github.com/exemplo/js-aula)     |
+| Node.js e Express    | [📄 Slides](https://drive.google.com/link-slides3) – [💻 Código](https://github.com/exemplo/node-aula)   |
+| PostgreSQL           | [📄 Slides](https://drive.google.com/link-slides4) – [📘 Documentação](https://www.postgresql.org/docs/) |
+| Deploy de Aplicações | [📄 Slides](https://drive.google.com/link-slides5) – [🔗 Link extra](https://vercel.com/docs)            |
 
 ---
 
@@ -39,11 +36,11 @@ Aqui você encontra os **materiais de apoio** utilizados nas capacitações: sli
 
 Cada trainee desenvolveu um projeto autoral como parte da conclusão do programa. Abaixo estão listados os projetos com os respectivos repositórios e links para apresentações.
 
-| Trainee         | Projeto                          | Repositório                                           | Apresentação                         |
-|-----------------|----------------------------------|--------------------------------------------------------|--------------------------------------|
-| Ana Souza       | Sistema de Agendamento Médico    | [🔗 GitHub](https://github.com/anamdev/projeto-final)  | [🎥 Ver apresentação](https://youtu.be/link-apresentacao-ana) |
-| João Lima       | App de Controle Financeiro       | [🔗 GitHub](https://github.com/joaolima/finance-app)   | [🎥 Ver apresentação](https://youtu.be/link-apresentacao-joao) |
-| Maria Ferreira  | Plataforma de Cursos Online      | [🔗 GitHub](https://github.com/mariaf/plataforma-cursos) | [🎥 Ver apresentação](https://youtu.be/link-apresentacao-maria) |
+| Trainee        | Projeto                       | Repositório                                              | Apresentação                                                    |
+| -------------- | ----------------------------- | -------------------------------------------------------- | --------------------------------------------------------------- |
+| Ana Souza      | Sistema de Agendamento Médico | [🔗 GitHub](https://github.com/anamdev/projeto-final)    | [🎥 Ver apresentação](https://youtu.be/link-apresentacao-ana)   |
+| João Lima      | App de Controle Financeiro    | [🔗 GitHub](https://github.com/joaolima/finance-app)     | [🎥 Ver apresentação](https://youtu.be/link-apresentacao-joao)  |
+| Maria Ferreira | Plataforma de Cursos Online   | [🔗 GitHub](https://github.com/mariaf/plataforma-cursos) | [🎥 Ver apresentação](https://youtu.be/link-apresentacao-maria) |
 
 ---
 

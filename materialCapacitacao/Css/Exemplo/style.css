@@ -1,0 +1,60 @@
+body {
+    background-image: radial-gradient(white, gray, black);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  .container {
+    background-color: white;
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  }
+
+  h1{
+    color: #64039b;
+  }
+  
+  .produto-img {
+    width: 80%;
+    border-radius: 15px;
+  }
+  
+  .descricao {
+    font-size: 1.1em;
+    color: #333;
+    margin: 20px 0;
+  }
+  
+  .beneficios {
+    list-style: none;
+    padding: 0;
+    text-align: left;
+    margin: 20px 0;
+  }
+  
+  .beneficios li {
+    margin: 10px 0;
+    font-size: 1em;
+  }
+  
+  .botao {
+    background-color: #64039b;
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: bold;
+    transition: 0.3s;
+  }
+  
+  .botao:hover {
+    background-color: white;
+    color: #64039b;
+    border: 3px solid #64039b;
+  }
+  
