@@ -42,7 +42,7 @@ Aqui você encontra os **materiais de apoio** utilizados nas capacitações: sli
 | Thiago Sousa  | [@ThiagoSousa](https://github.com/ThiagoSousa81) | Git, GitHub  |
 | Madson Mendes | [@MadsonMendes](https://github.com/MadsonMendes) | JavaScript   |
 | Diretoria     | ---                                              | Css          |
-| Rafael        | ---                                              | Html         |
+| Rafael        | ###                                              | Html         |
 
 ---
 
@@ -78,15 +78,15 @@ Todos os trainees devem seguir as diretrizes abaixo para elaboração do projeto
 
 Cada dupla de trainee desenvolveu um projeto autoral como parte da conclusão do processo. Abaixo estão listados os projetos com os respectivos repositórios e links da apresentações.
 
-| Trainee                                | Projeto | Repositório      | Apresentação               |
-| -------------------------------------- | ------- | ---------------- | -------------------------- |
-| Ana Laysa - Arthur Legal               | (...)   | [🔗 GitHub](###) | [🎥 Ver apresentação](###) |
-| Alexandre França - Marcello dos Santos | (...)   | [🔗 GitHub](###) | [🎥 Ver apresentação](###) |
-| Arthur Kévin - Ryan Sacramento         | (...)   | [🔗 GitHub](###) | [🎥 Ver apresentação](###) |
-| Bruna Silva - Pedro Barreto            | (...)   | [🔗 GitHub](###) | [🎥 Ver apresentação](###) |
-| Catarine Pires - Vinicius Nascimento   | (...)   | [🔗 GitHub](###) | [🎥 Ver apresentação](###) |
-| Luiz Augusto - Renan dos Anjos         | (...)   | [🔗 GitHub](###) | [🎥 Ver apresentação](###) |
-| Raphael Batista - Victor               | (...)   | [🔗 GitHub](###) | [🎥 Ver apresentação](###) |
+| Trainee                                | Projeto GitHub                        | Repositório                                                                                     | Projeto ao vivo                                                                                   |
+| -------------------------------------- | ------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --- |
+| Ana Laysa - Arthur Legal               | (...)                                 | [🔗 GitHub](###)                                                                                | [🎥 Ver apresentação](###)                                                                        |
+| Alexandre França - Marcello dos Santos | MultiConversor                        | [🔗 GitHub](https://github.com/Alexandr3Franca/recode-project-converter)                        | [Ver ao vivo](https://alexandr3franca.github.io/recode-project-converter/)                        |
+| Arthur Kévin - Ryan Sacramento         | (...)                                 | [🔗 GitHub](###)                                                                                | [🎥 Ver apresentação](###)                                                                        |
+| Pedro Barreto                          | Calculadora de Espaçamento de Árvores | [🔗 GitHub](https://github.com/Ollopo77BR/Projeto-Recode-Cauculadora-de-espa-amento-de-rvores-) | [Ver ao vivo](https://ollopo77br.github.io/Projeto-Recode-Cauculadora-de-espa-amento-de-rvores-/) |
+| Catarine Pires - Vinicius Nascimento   | MATERIAIS DIDÁTICOS, RECODE Jr.       | [🔗 GitHub](https://github.com/Vini-Nasc/recode-conteudo/tree/main)                             | [Ver ao vivo](###)                                                                                | ao  |
+| Luiz Augusto - Renan dos Anjos         | KanaTest (かな撤素闘)                 | [🔗 GitHub](https://github.com/Luwiigi/KanaTest)                                                | [Ver ao vivo](https://luwiigi.github.io/KanaTest/)                                                |
+| Raphael Batista - Victor               | Conversor de Unidades                 | [🔗 GitHub](https://github.com/Victor379/Projeto-Recodejr)                                      | [Ver ao vivo](https://victor379.github.io/Projeto-Recodejr/)                                      |
 
 ---
 

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>KanaTest</title>
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@700&family=Sawarabi+Mincho&family=Kosugi+Maru&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./style.css" />
+    <script src="./script.js" defer></script>
+  </head>
+
+  <body>
+    <div id="clickAnywhereOverlay">
+      <span>Click/Touch! :)</span>
+    </div>
+    <video id="bgVideo" autoplay loop muted playsinline>
+      <source src="./media/background.mp4" type="video/mp4" />
+    </video>
+    <header>
+      <ruby>仮名<rt>かな</rt>撤素闘<rt>てっすとう</rt></ruby>
+      <br />KanaTest
+    </header>
+    <div class="element">
+      <button id="startButton" type="submit">
+        試練開始
+        <br />
+        Game Start
+      </button>
+    </div>
+    <br />
+
+    <div class="element" id="kanaPrompt"></div>
+
+    <div class="element" id="textInput">
+      Romaji answer:
+      <input type="text" id="kanaInput" />
+    </div>
+    <audio id="bgMusic"></audio>
+  </body>
+</html>

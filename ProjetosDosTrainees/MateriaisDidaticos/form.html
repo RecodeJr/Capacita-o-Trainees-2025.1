@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RECODE JR - FORM</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li>
+          <a href="homepage.html"
+            ><img src="../img/logo-recode.png" alt="RECODE JR"
+          /></a>
+        </li>
+        <li><a href="homepage.html">SOBRE</a></li>
+        <li><a href="homepage.html">SERVIÇOS</a></li>
+        <li><a href="homepage.html">PORTIFÓLIO</a></li>
+        <li><a href="homepage.html">EQUIPE</a></li>
+        <li><a href="homepage.html">CONTATO</a></li>
+        <li><a href="index.html">CONTEÚDOS</a></li>
+      </ul>
+    </nav>
+    <main class="forms">
+      <h2>ENVIE A SUA SUGESTÃO</h2>
+      <form onsubmit="return enviarSugestao(event)">
+        <div>
+          <label>Nome:</label><br />
+          <input type="text" id="nome" required /><br />
+        </div>
+        <div>
+          <label>E-mail:</label><br />
+          <input type="email" id="email" required /> <br />
+        </div>
+        <div>
+          <label>Sugestão:</label><br />
+          <textarea id="sugestao" required></textarea><br />
+        </div>
+        <button type="submit">Enviar</button>
+      </form>
+      <p id="mensagem"></p>
+    </main>
+    <script>
+      function enviarSugestao(event) {
+        event.preventDefault();
+        document.getElementById("mensagem").innerText =
+          "Sugestão enviada com sucesso!";
+        return false;
+      }
+    </script>
+    <footer>
+      <div class="footer">
+        <div class="footer-social">
+          <a
+            href="https://github.com/recodejr"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img src="../img/footer/github_icon.png" alt="github" />
+          </a>
+          <a
+            href="https://www.instagram.com/recodejr/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img src="../img/footer/instagram_icon.png" alt="instagram" />
+          </a>
+          <a href="" target="_blank" rel="noopener noreferrer">
+            <img src="../img/footer/linkedin_icon.png" alt="linkedin" />
+          </a>
+          <a
+            href="https://www.youtube.com/channel/UCM9ekev7FqSr3Yf_6oO29Ww"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img src="../img/footer/youtube_icon.png" alt="youtube" />
+          </a>
+        </div>
+        <div class="footer-logo">
+          <img src="../img/footer/logo_footer.png" alt="RECODE" />
+          <p>DESDE 2016</p>
+        </div>
+        <div class="footer-contact">
+          <h5>ENTRE EM CONTATO:</h5>
+          <p>Principal: <a href="#">comercial@recodejr.com</a></p>
+          <p>Administrativo: <a href="#">daf@recodejr.com</a></p>
+          <p>Projetos: <a href="#">daf@recodejr.com</a></p>
+          <p>RH: <a href="#">dgp@recodejr.com</a></p>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

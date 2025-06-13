@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>CalcTree Online. </h1>
+<form id="treeForm">
+<label for="tree">Árvores:</label>
+ <select id="tree" name="tree" required>
+  <option value=""> Escolha a arvore em questão: </option>
+  <option value="apple"> Macieira </option>
+  <option value="banana"> Bananeira </option>
+  <option value="pineapple"> Abacaxeira </option>
+  <option value="grape"> Videira </option>
+  <option value="olive"> Oliveira </option>
+  <option value="guava"> Goiaberira </option>
+  <option value="lemon"> Limoeiro </option>
+  <option value="strawberry"> Morangueira </option>
+  <option value="blueberry"> Mertileira </option>
+  <option value="mango"> Manguguifera </option>
+  <option value="papaya"> Mamoeiro </option>
+  <option value="avocado"> Abacateiro </option>
+  <option value="cashew"> Cajueiro </option>
+  <option value="nut"> Castanheira </option>
+  <option value="acai"> Açaizeiro </option>
+  <option value="jabuti"> Jabuticabeiro </option>
+  <option value="cupuacu"> Cupuaçueiro </option>
+  <option value="pitanga"> Pitangueiro </option>
+  <option value="roma"> Romãzeiro </option>,,
+  <option value="coconut"> Coqueiro </option>
+  <option value="oak"> Carvalho </option>
+  <option value="birch"> Vidoeiro </option>
+  <option value="ashwood"> Freixo </option>
+  <option value="maple"> Bordo </option>
+  <option value="eucalipito"> Eucalipito </option>
+  <option value="latex"> Seringueira </option>
+  <option value="ipe"> Ipê </option>
+  <option value="brasilwood"> Pau-Brasil </option>
+  <option value="cecropia"> Embaúba </option>
+  <option value="mahogany"> Mogno </option>
+  <option value="jatoba"> Jatobá </option>
+  <option value="parapine"> Araucária </option>
+  <option value="babacu"> Babaçu </option>
+  <option value="buriti"> Buriti </option>
+  <option value="andiroba"> Andiroba </option>
+  <option value="copaiba"> Copaíba </option>
+  <option value="cedro"> Cedro </option>
+  <option value="paineira"> Paineira </option>
+  <option value="quaresmeira"> Quaresmeira </option>
+  <option value="jacaranda"> Jacarandá </option>
+ </select>
+ <br>
+ <br>
+ <label>digite a area aonde serão plantadas as arvores(em m²): 
+     <input type="number" id="area" name="area" min="1" step="0.1" required></label>
+ <br>
+ <br>
+     <button type="button" onclick="calcularArvores()">Calcular</button>
+     
+     <footer>Projeto Recode Pedro Costa Santos Barreto</footer>
+</form>
+
+<div id="result"></div> 
+
+<script src="script.js"></script>
+</html>
